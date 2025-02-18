@@ -1,4 +1,4 @@
-Bridging Synthetic-to-Real Gaps: Frequency-Aware Perturbation and Selection \\ for Single-shot Multi-Parametric Reconstruction
+Bridging Synthetic-to-Real Gaps: Frequency-Aware Perturbation and Selection for Single-shot Multi-Parametric Reconstruction
 
 ![总框架1-600](https://github.com/user-attachments/assets/6fa78e57-0c87-4ff3-be8c-6e5f54239bc3)
 
