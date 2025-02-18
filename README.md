@@ -1,2 +1,6 @@
-Bridging Synthetic-to-Real Gaps: Frequency-aware Perturbation and Selection for MOLED-based Single-shot Multi-parametric Mapping Reconstruction
-![12-2-1-500](https://github.com/user-attachments/assets/58e5acc8-946d-41ae-a564-e6800e84cf76)
+Bridging Synthetic-to-Real Gaps: Frequency-Aware Perturbation and Selection \\ for Single-shot Multi-Parametric Reconstruction
+
+![总框架1-600](https://github.com/user-attachments/assets/6fa78e57-0c87-4ff3-be8c-6e5f54239bc3)
+
+
+![总框架2-800](https://github.com/user-attachments/assets/b36b7adf-2f68-4559-830c-bd0329a620c5)
