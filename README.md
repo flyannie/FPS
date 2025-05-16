@@ -1,4 +1,4 @@
-FPS: Frequency-Aware Perturbation and Selection for Syntheitc-To-Real Domain Adaptive Multi-Parametric Mapping Reconstruction
+FPS: Frequency-Aware Perturbation and Selection for Syntheitc-to-Real Domain Adaptive MRI Mapping Reconstruction
 
 ![总框架1-600](https://github.com/user-attachments/assets/6fa78e57-0c87-4ff3-be8c-6e5f54239bc3)
 
